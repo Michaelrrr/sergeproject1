@@ -1,3 +1,8 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin: 150px 0px;
+}
 img {
     height: 85px;
     display: block;
